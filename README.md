@@ -1,1 +1,2 @@
-new_file
+#!/bin/bash
+My project readme
